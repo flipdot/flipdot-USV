@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name HFD2-L2)(type KiCad)(uri "$(KIPRJMOD)/HFD2-L2.pretty")(options "")(descr ""))
+  (lib (name flipdot)(type KiCad)(uri "$(KIPRJMOD)/flipdot")(options "")(descr ""))
+)
